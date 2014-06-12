@@ -37,6 +37,7 @@
 	</dependencies>
 	<modules>
 		<module>gao.zone.study.akka</module>
+		<module>gao.zone.study.java8.lambdas</module>
 	</modules>
 
 
